@@ -2,6 +2,6 @@
 
 [![Build Status](https://travis-ci.org/IKMalik/mySite.svg?branch=master)](https://travis-ci.org/IKMalik/mySite)
 
-https://img.shields.io/github/languages/code-size/IKMalik/mySite
+![GitHub language count](https://img.shields.io/github/languages/count/IKMalik/mySite?style=plastic)
 
-https://img.shields.io/github/languages/count/IKMalik/mySite
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/IKMalik/mySite?color=3&style=plastic)
