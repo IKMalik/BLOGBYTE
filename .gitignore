@@ -1,5 +1,7 @@
-mySite/__pycache__/wsgi.cpython-39.pyc
-mySite/__pycache__/urls.cpython-39.pyc
-blog/__pycache__/__init__.cpython-39.pyc
-blog/__pycache__/urls.cpython-39.pyc
-blog/__pycache__/views.cpython-39.pyc
+.vscode/
+blog/migrations/__pycache__
+mySite/__pycache__
+blog/__pycache__
+mySite/__pycache__/settings.cpython-39.pyc
+db.sqlite3
+blog/.prettierrc
