@@ -1,4 +1,6 @@
 from django.shortcuts import render
+from .models import Posts
+from django.views.generic import (CreateView)
 
 posts = [
     {
@@ -21,6 +23,10 @@ posts = [
     }
 ]
 
+class PostCreateView(CreateView):
+    model = Posts
+    template_name = "blog/post_form.html"
+    fields = ["author", "title", "content"]
 
 def home(request):
     context = {
